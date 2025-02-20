@@ -1,5 +1,5 @@
 let numeroSortiados = [];
-let numeroLimite = 10;
+let numeroLimite = 100;
 let numeroSecreto = numeroAleatorio();
 let qtdTentativas = 1;
 
